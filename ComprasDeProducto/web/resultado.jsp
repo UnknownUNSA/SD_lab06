@@ -12,9 +12,10 @@
 </head>
 <body>
     <h1>Resultado de la Compra</h1>
-    <p>Nombre del Producto: ${nombreProducto}</p>
-    <p>Precio: ${precio}</p>
-    <p>Cantidad: ${cantidad}</p>
-    <p>Total a Pagar: ${total}</p>
+    <p>Cantidad de Pan: ${cantidadPan}, Total: ${totalPan}</p>
+    <p>Cantidad de Queso: ${cantidadQueso}, Total: ${totalQueso}</p>
+    <p>Cantidad de Naranjas: ${cantidadNaranjas}, Total: ${totalNaranjas}</p>
+    <p>Cantidad de Plátanos: ${cantidadPlatanos}, Total: ${totalPlatanos}</p>
+    <p>Total General: ${totalGeneral}</p>
 </body>
 </html>
